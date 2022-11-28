@@ -1,4 +1,4 @@
-<h1> Projeto jogo Pong <1>
+<h1> Projeto jogo Pong <h1>
 
 > Status do projeto: realizado
 
